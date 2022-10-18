@@ -1,0 +1,54 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "geo_target_constant.canonical_name": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "geo_target_constant.country_code": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "geo_target_constant.id": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "geo_target_constant.name": {
+      "type": [
+        "null",
+        "integer"
+      ]
+    },
+    "geo_target_constant.parent_geo_target": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "geo_target_constant.resource_name": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "geo_target_constant.status": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "geo_target_constant.target_type": {
+      "type": [
+        "null",
+        "string"
+      ]
+    }
+  }
+}
