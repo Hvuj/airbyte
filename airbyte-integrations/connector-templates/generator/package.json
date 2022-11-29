@@ -9,7 +9,7 @@
     "capital-case": "^1.0.4",
     "change-case": "^4.1.2",
     "handlebars": "^4.7.7",
-    "plop": "^3.0.5",
+    "plop": "^3.1.1",
     "set-value": ">=4.0.1",
     "uuid": "^8.3.2"
   }
